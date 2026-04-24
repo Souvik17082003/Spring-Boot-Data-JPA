@@ -1,3 +1,4 @@
 # Spring-Boot-Data-JPA
-It's a program in Spring Data JPA which uses ORM to map Java application with Data Base effiectively
+It's a program in Spring Data JPA which uses ORM to map a Java application with Data Base effiectively.
+<br>
 Author  - Souvik Roy
